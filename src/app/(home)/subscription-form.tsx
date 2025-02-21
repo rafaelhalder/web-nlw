@@ -20,6 +20,10 @@ function SubscriptionFormContent() {
   const router = useRouter()
   const searchParams = useSearchParams()
 
+  if (!searchParams) {
+    return <div>Carregando...</div>
+  }
+
   const {
     register,
     handleSubmit,
