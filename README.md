@@ -37,3 +37,8 @@ npm install tailwindcss @tailwindcss/postcss postcss
 npm i lucide-react
 npm i @biomejs/biome -D
 npx @biomejs/biome init
+npm i tailwind-merge
+npm i react-hook-form
+npm i zod @hookform/resolvers
+
+se querer por uma função no topo da tela escrever 'use client'
