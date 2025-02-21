@@ -25,6 +25,7 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "orval": "^7.5.0",
     "tailwind-merge": "^3.0.1",
     "typescript": "^5"
   }

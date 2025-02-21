@@ -40,5 +40,6 @@ npx @biomejs/biome init
 npm i tailwind-merge
 npm i react-hook-form
 npm i zod @hookform/resolvers
-
+npm i orval -D
+npx orval
 se querer por uma função no topo da tela escrever 'use client'
